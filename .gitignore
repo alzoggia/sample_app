@@ -24,3 +24,6 @@ doc/
 .DS_Store
 .idea
 .secret
+
+# ignora il file di config al db
+config/database.yml
